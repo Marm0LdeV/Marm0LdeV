@@ -6,10 +6,6 @@
   Aprendiendo, desarrollando y construyendo soluciones mediante la programación.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marm0LdeV&style=flat-square&color=blue" alt="Visitas al perfil"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
@@ -98,7 +94,3 @@ Mi aprendizaje se centra en explorar distintas áreas del desarrollo de software
 </p>
 
 ---
-
-<p align="center">
-  <i>Construyendo mi camino en el desarrollo de software, un proyecto a la vez. 🚀</i>
-</p>

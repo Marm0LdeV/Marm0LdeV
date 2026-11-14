@@ -1,6 +1,6 @@
  <h1 align="center">¡Hola! 👋 Soy Marmol</h1>
 
-<h3 align="center">Estudiante de Desarrollo de Software | Desarrollador Junior</h3>
+<h3 align="center"> Desarrollador de software | Desarrollador Junior</h3>
 
 <p align="center">
   Aprendiendo, desarrollando y construyendo soluciones mediante la programación.

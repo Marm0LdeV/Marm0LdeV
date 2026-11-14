@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Desarrollo de Software y desarrollador junior, interesado en la creación de aplicaciones, el desarrollo web y la resolución de problemas mediante la tecnología.
+Soy bachiller Técnico en  Desarrollo de Software y desarrollador junior, interesado en la creación de aplicaciones, el desarrollo web y la resolución de problemas mediante la tecnología.
 
 A lo largo de mi trayectoria académica y práctica, he trabajado con diferentes lenguajes de programación, herramientas y tecnologías, desarrollando habilidades tanto en programación orientada a objetos como en desarrollo de aplicaciones web y móviles.
 
